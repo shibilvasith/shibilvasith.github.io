@@ -18,7 +18,7 @@
  *   tags: ["LINUX", "NETWORKING", "CLOUD"],
  *   icon: "server", // "workflow" | "brain" | "activity" | "radar" | "server" | "cloud" | "terminal"
  *   screenshot: "./assets/images/your-screenshot.png", // optional path
- *   githubUrl: "https://github.com/shibilvasith4816-droid/your-repo" // optional repo URL
+ *   githubUrl: "https://github.com/shibilvasith/your-repo" // optional repo URL
  * }
  */
 
@@ -31,7 +31,7 @@ window.PORTFOLIO_DATA = {
     whatsappNumber: "917356214147",
     displayPhone: "+91 73562 14147",
     linkedin: "https://www.linkedin.com/in/shibilvasith/",
-    github: "https://github.com/shibilvasith4816-droid",
+    github: "https://github.com/shibilvasith",
     resumePath: "./assets/Mohammed-Shibil-Vasith-MK-Resume.pdf",
   },
 
